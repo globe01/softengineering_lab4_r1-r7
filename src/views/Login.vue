@@ -1,8 +1,6 @@
-<!--
- 描述: 登录模板
- 作者: Software Engineering Group
- 日期: 2024-05
--->
+
+ <!-- 软件工程lab4——git项目管理 2111172 高路博 修改第3个文件 -->
+
 
 <template>
   <div class="login-container">

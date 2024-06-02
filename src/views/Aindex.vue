@@ -1,3 +1,6 @@
+<!-- 软件工程lab4——git项目管理 2111172 高路博 修改第2个文件 -->
+
+
 <template>
   <div id="index" ref="appRef">
     <div class="bg">
